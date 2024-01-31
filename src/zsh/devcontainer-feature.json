@@ -1,0 +1,7 @@
+{
+  "name": "zsh",
+  "id": "zsh",
+  "version": "1.0.0",
+  "description": "Shell designed for interactive use",
+  "options": {}
+}
