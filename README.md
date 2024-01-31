@@ -4,9 +4,10 @@
 
 List of supported features:
 
-- [eza](https://github.com/eza-community/eza), A modern, maintained replacement for _ls_.
 - [zsh](https://www.zsh.org), Shell designed for interactive use.
+- [eza](https://github.com/eza-community/eza), A modern, maintained replacement for _ls_.
 - [bat](https://github.com/sharkdp/bat), A _cat_ clone with syntax highlighting and Git integration.
+- [vim](https://www.vim.org), The ubiquitous text editor.
 
 
 ## Usage
@@ -24,7 +25,8 @@ See the relevant Feature's README for supported options.
 "features": {
     "ghcr.io/pantolin/devcontainer-features/zsh:latest": {},
     "ghcr.io/pantolin/devcontainer-features/eza:latest": {},
-    "ghcr.io/pantolin/devcontainer-features/bat:latest": {}
+    "ghcr.io/pantolin/devcontainer-features/bat:latest": {},
+    "ghcr.io/pantolin/devcontainer-features/vim:latest": {}
   },
 }
 ```
