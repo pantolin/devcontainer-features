@@ -1,7 +1,7 @@
 
 # zsh (zsh)
 
-Shell designed for interactive use.
+Shell designed for interactive use
 
 ## Example Usage
 
