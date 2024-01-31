@@ -1,7 +1,7 @@
 
 # zsh (zsh)
 
-Shell designed for interactive use.
+Shell designed for interactive use
 
 ## Example Usage
 
@@ -16,3 +16,9 @@ Shell designed for interactive use.
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
 
+
+
+
+---
+
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/pantolin/devcontainer-features/blob/main/src/zsh/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
