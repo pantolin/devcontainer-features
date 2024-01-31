@@ -1,7 +1,8 @@
 
 # eza (eza)
 
-A modern, maintained replacement for ls
+A modern, maintained replacement for ls.
+
 
 ## Example Usage
 

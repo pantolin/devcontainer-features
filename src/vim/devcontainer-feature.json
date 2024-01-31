@@ -1,0 +1,7 @@
+{
+  "name": "vim",
+  "id": "vim",
+  "version": "1.0.0",
+  "description": "The ubiquitous text editor.",
+  "options": {}
+}
