@@ -2,6 +2,6 @@
   "name": "eza",
   "id": "eza",
   "version": "1.0.0",
-  "description": " A modern, maintained replacement for ls",
+  "description": "A modern, maintained replacement for ls",
   "options": {}
 }
