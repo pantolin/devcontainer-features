@@ -43,7 +43,7 @@ apt update -y
 apt install -y bat
 
 echo "Step 5, create symbolic link"
-ln -s /usr/bin/bat /usr/local/bin/bat
+ln -s /usr/bin/batcat /usr/local/bin/bat
 
 
 echo "Step 6, clean up"
